@@ -41,7 +41,7 @@ Certified **Data Analyst**, **Power BI Developer**, and **Microsoft Fabric Devel
 
 ### 🤝 Connect & Network
 
-- **LinkedIn:** [Sumit Kale](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE) *(Replace with your URL)*
+- **LinkedIn:** [Sumit Kale](www.linkedin.com/in/sumit-kale-773704261)
 - **Email:** [kalesumit8698@gmail.com](mailto:kalesumit8698@gmail.com)
 - **Location:** Chhatrapati Sambhajinagar, Maharashtra, India
 
